@@ -44,9 +44,3 @@
 * 📉 **Latency Reduction:** Optimized complex PostgreSQL CTEs and implemented Distributed Locking with Redis.
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Om's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
