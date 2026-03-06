@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+  <a href="https://www.linkedin.com/in/om-s-4987b9135">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
